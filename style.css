@@ -1,0 +1,172 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+
+}
+
+.secp {
+    padding-bottom: 20px;
+}
+
+.orange-highlight {
+    color: orange;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.section {
+    margin-top: 20px;
+    padding-bottom: 100px;
+    height: 500px;
+    .
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.hire-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #F86A61, tomato);
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+}
+
+.dream-area {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.sec3 {
+    width: 25%;
+    background-color: white;
+    margin-left: 5%;
+    padding-left: 2%;
+    border: 2px solid white;
+    margin: 30px 5px 0px 5px;
+    padding-right: 40px;
+    padding-top: 30px;
+    display: inline-block;
+}
+
+.sec3 img {
+    margin: 22px 10px 22px 0x;
+    width: 300px;
+    height: 200px;
+    left: 148px;
+    top: 1469px;
+}
+
+.sec3-div {
+    text-align: center;
+}
+
+.single-experice {
+    border-radius: 20px;
+    height: 80%;
+}
+
+.project-area {
+
+    background-color: #F8F9FC;
+    padding: 30px 20px;
+
+}
+
+/* .sec3-heading{
+    border: 20px solid #F8F9FC;
+
+} */
+
+.leatest {
+    color: #F46060;
+}
+
+.chat {
+    background-image: url(images/contact.png);
+    background-color: #F46060;
+    height: 150px;
+    width: 50%;
+    padding: 0px 50px;
+    border-radius: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.chat-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #F86A61, tomato);
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-top: 60px;
+    
+}
+
+.section4 {
+    padding-top: 60px;
+    height: 200px;
+    
+    text-align: center;
+    margin-top: ;
+}
+.work{
+
+    float:left;
+    margin-top: 60px;
+    color: white;
+}
+.stay{
+    color: #696871;
+    text-align: center;
+    margin-top: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.email{
+    color: black;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.icons{
+    text-align: center;
+    padding: 0px 50px;
+}
+
+.icons img{
+    padding: 0px 20px;
+    width: 46px;
+    
+}
